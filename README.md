@@ -1,1 +1,1 @@
-实验室安全系统 for ECNU
+实验室安全检查系统 for ECNU
